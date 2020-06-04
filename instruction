@@ -1,0 +1,4 @@
+download and Extract
+Find the "res_mod" folder under the game root directory
+create "banks" folder inside the number folder represents you game's current version
+create "Mods" folder inside the banks, put the extracted folder IN the Mods
